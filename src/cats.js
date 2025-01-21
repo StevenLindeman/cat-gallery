@@ -2,8 +2,8 @@ export default [
     {
         id: 1,
         img: {
-            src: "runchkin.jpeg",
-            alt: "Cat"
+            src: "/runchkin.jpeg",
+            alt: "/Cat"
         },
         name: "Runchkin",
         dob:  "Apr 12 2024",
@@ -13,7 +13,7 @@ export default [
     {
         id: 2,
         img: {
-            src: "piper.jpeg",
+            src: "/piper.jpeg",
             alt: "Cat"
         },
         name: "Piper",
@@ -24,7 +24,7 @@ export default [
     {
         id: 3,
         img: {
-            src: "ori.jpeg",
+            src: "/ori.jpeg",
             alt: "Cat"
         },
         name: "Orville (Ori)",
@@ -35,7 +35,7 @@ export default [
     {
         id: 4,
         img: {
-            src: "cricket.jpeg",
+            src: "/cricket.jpeg",
             alt: "Cat"
         },
         name: "Cricket",
@@ -46,7 +46,7 @@ export default [
     {
         id: 5,
         img: {
-            src: "tea.jpeg",
+            src: "/tea.jpeg",
             alt: "Cat"
         },
         name: "Tea",
